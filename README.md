@@ -1,1 +1,2 @@
 "# PolymerVizCodelab" 
+Uses:  Bower
